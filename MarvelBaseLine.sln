@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelBaseLine", "MarvelBaseLine\MarvelBaseLine.csproj", "{C479F91E-547A-434E-A3BF-FA823B47B676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelBaseLine.Tests", "MarvelBaseLine.Tests\MarvelBaseLine.Tests.csproj", "{DD487943-7DD0-4725-A530-9C48A4B18AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C479F91E-547A-434E-A3BF-FA823B47B676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C479F91E-547A-434E-A3BF-FA823B47B676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C479F91E-547A-434E-A3BF-FA823B47B676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C479F91E-547A-434E-A3BF-FA823B47B676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD487943-7DD0-4725-A530-9C48A4B18AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD487943-7DD0-4725-A530-9C48A4B18AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD487943-7DD0-4725-A530-9C48A4B18AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD487943-7DD0-4725-A530-9C48A4B18AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE6E8B2-9204-453D-9ABC-60CFFAFF7378}
+	EndGlobalSection
+EndGlobal

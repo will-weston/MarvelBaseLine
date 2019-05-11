@@ -1,0 +1,8 @@
+version: '3'
+services:
+  webserver:
+    build:
+      dockerfile: ./MarvelBaseLine/Dockerfile
+      context: .
+    ports:
+      - "8080:80"
